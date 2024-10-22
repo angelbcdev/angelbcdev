@@ -12,21 +12,20 @@ After two years of self-taught learning, I've grown from writing my first lines 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-0D94F5?style=for-the-badge&logo=swift&logoColor=white)]()
 
 
-</br>
+
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black&labelColor=f0f0f0)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-</br>
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black&labelColor=f0f0f0)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Astro](https://img.shields.io/badge/Astro-FF5D00?style=for-the-badge&logo=astro&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=black)]()
-</br>
+
 [![Node](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=black&labelColor=f0f0f0)]()
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
-</br>
+
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=f0f0f0)]()
-</br>
-And more...
+
 
 ## SOFT SKILLS
 ![Creativity](https://img.shields.io/badge/Creativity-f0f0f0?style=for-the-badge)
